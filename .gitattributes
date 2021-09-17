@@ -1,0 +1,1 @@
+stress_mouse.xml filter=lfs diff=lfs merge=lfs -text
